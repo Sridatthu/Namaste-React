@@ -1,0 +1,101 @@
+{
+    "info": {
+        "id": "537783",
+        "name": "Sri Guru Prasad Udipi Hotel",
+        "cloudinaryImageId": "gbqwknzghuezuosgm5xj",
+        "locality": "Ravinder Nagar",
+        "areaName": "Marlu",
+        "costForTwo": "₹169 for two",
+        "cuisines": [
+            "South Indian",
+            "Indian",
+            "Beverages"
+        ],
+        "avgRating": 4.3,
+        "veg": true,
+        "parentId": "193752",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "594",
+        "sla": {
+            "deliveryTime": 20,
+            "lastMileTravel": 1.7,
+            "serviceability": "SERVICEABLE",
+            "slaString": "20-25 mins",
+            "lastMileTravelString": "1.7 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2025-03-06 21:30:00",
+            "opened": true
+        },
+        "badges": {
+            "imageBadges": [
+                {
+                    "imageId": "bolt/Bolt%20Listing%20badge@3x.png",
+                    "description": "bolt!"
+                },
+                {
+                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                    "description": "pureveg"
+                }
+            ]
+        },
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "description": "bolt!",
+                                "imageId": "bolt/Bolt%20Listing%20badge@3x.png"
+                            }
+                        },
+                        {
+                            "attributes": {
+                                "description": "pureveg",
+                                "imageId": "v1695133679/badges/Pure_Veg111.png"
+                            }
+                        }
+                    ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {}
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+            "aggregatedRating": {
+                "rating": "--"
+            }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+        "context": "seo-data-76d21ce2-d606-4eb2-9ed9-d4698f777c72"
+    },
+    "cta": {
+        "link": "https://www.swiggy.com/city/mahbubnagar/sri-guru-prasad-udipi-hotel-ravinder-nagar-marlu-rest537783",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+}
